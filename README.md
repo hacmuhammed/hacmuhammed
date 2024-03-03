@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Pood (Music Platform)**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **NODE JS**
 
 - 📫 How to reach me **hajmu.business@gmail.com**
 
