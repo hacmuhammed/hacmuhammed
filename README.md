@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
-<h3 align="center">A back-end developer & ui/ux designer 🚀</h3>
+<h3 align="center">Full Stack Developer & UI/UX Designer 🚀</h3>
 
 - 🔭 I’m currently working on **Pood (Music Platform)**
 
