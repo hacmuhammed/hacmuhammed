@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammed</h1>
 <h3 align="center">Full Stack Developer & UI/UX Designer 🚀</h3>
 
-- 🔭 I’m currently working on **Pood (Music Platform)**
+- 🔭 I’m currently working on **QRiety - QR Code Generating Tool**
 
 - 🌱 I’m currently learning **NODE JS**
 
